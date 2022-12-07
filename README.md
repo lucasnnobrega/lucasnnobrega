@@ -4,7 +4,7 @@ Data Scientist and Robotic Engineer
 -----------------------------------
 * 🌍  I'm based in Fortaleza CE Brazil
 * ✉️  You can contact me at [lucasnnobrega@gmail.com](mailto:lucasnnobrega@gmail.com)
-* 🚀  I'm currently working on [Data scientist at a Dock](http://dock.tech/en/)
+* 🚀  I'm currently working on [Data scientist at a Instituto Atlântico](http://www.atlantico.com.br/)
 * 🧠  I'm learning Federated learning in mobile robots for a masters degree in robotics.
 
 <a href="https://www.github.com/lucasnnobrega" target="_blank" rel="noreferrer"><img
